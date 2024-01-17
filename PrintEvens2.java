@@ -1,4 +1,4 @@
-package PrintEvens1;
+package PrintEvens2;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
  *
  * @author Tawq.pro
  */
-public class PrintEvens1 {
+public class PrintEvens2 {
 
     public static void main(String[] args) {
         System.out.println("Even numbers from 1 to 100: ");
