@@ -23,9 +23,6 @@ public class TriangleTypeChecker {
         System.out.print("Enter the third side: ");
         double side3 = scanner.nextDouble();
 
-        // Close the scanner to avoid resource leaks
-        scanner.close();
-
         // Check the type of the triangle
         if (side1 == side2 && side2 == side3) {
             System.out.println("The triangle is equilateral");
