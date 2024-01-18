@@ -1,4 +1,4 @@
-package Lab08;
+package PositiveNegativeChecker;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ import java.util.Scanner;
  *
  * @author Tawq.pro
  */
-public class Lab08 {
+public class PositiveNegativeChecker {
 
 
     public static void main(String[] args) {
