@@ -1,8 +1,5 @@
 package ComputingFormula;
 
-import java.util.Scanner;
-
-
 /**
  *
  * @author Tawq.pro
