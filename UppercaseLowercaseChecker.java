@@ -1,7 +1,4 @@
 package UppercaseLowercaseChecker;
-
-
-
 /**
  *
  * @author Tawq.pro
