@@ -17,9 +17,6 @@ public class VowelConsonantChecker {
         System.out.print("Enter a letter: ");
         String userInput = scanner.nextLine();
 
-        // Close the scanner to avoid resource leaks
-        scanner.close();
-
         // Check the length of the input
         if (userInput.length() == 1) {
             char letter = userInput.charAt(0);
