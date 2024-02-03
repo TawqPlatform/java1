@@ -21,7 +21,7 @@ public class CountingWords {
     
     public static int countWords(String str) {
         if (str.isEmpty()) {
-            return 0; // No vowels in an empty or null string
+            return 0; // No words in an empty 
         }
 
         int wordsCount = 1; // for the first word
